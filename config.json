@@ -85,7 +85,7 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-        "qgbaiduyun": {
+    "qgbaiduyun": {
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "name": "百度云资源"
     },
@@ -124,10 +124,6 @@
     "qgshandian": {
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "name": "闪电资源"
-    },
-    "qgwujin": {
-      "api": "https://api.wujinapi.com/api.php/provide/vod/",
-      "name": "无尽资源"
     },
     "qghuohu": {
       "api": "https://hhzyapi.com/api.php/provide/vod/",
@@ -206,13 +202,13 @@
       "name": "滴滴资源站"
     },
     "qghaiwaikan": {
-        "name": "海外看资源",
-        "api": "https://haiwaikan.com/api.php/provide/vod/"
+      "name": "海外看资源",
+      "api": "https://haiwaikan.com/api.php/provide/vod/"
     },
     "qgikun": {
-        "name": "Ikun资源",
-        "api": "https://www.ikunzy.com/api.php/provide/vod",
-        "detail": "https://www.ikunzy.com/"
+      "name": "Ikun资源",
+      "api": "https://www.ikunzy.com/api.php/provide/vod",
+      "detail": "https://www.ikunzy.com/"
     }
   }
 }
